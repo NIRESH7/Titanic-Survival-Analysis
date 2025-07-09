@@ -41,7 +41,6 @@ Communicating analytical insights through data storytelling
 
 link: https://app.powerbi.com/groups/me/reports/f12b2c3f-8b85-48b1-96c9-2f2809cf9aad/ddc5e0806801d01dd967?experience=power-bi
 
-(Insert a screenshot or GIF of your Power BI dashboard here)
 
 📊 Dataset Source
 ![Screenshot 2025-07-09 225832](https://github.com/user-attachments/assets/aea32b75-85f5-43ea-a835-86a884b2ea66)
