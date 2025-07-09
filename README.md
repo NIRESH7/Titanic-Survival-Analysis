@@ -37,12 +37,11 @@ Creating professional Power BI dashboards with KPIs, filters, and dynamic visual
 
 Communicating analytical insights through data storytelling
 
-🖼 Dashboard Preview
 
 link: https://app.powerbi.com/groups/me/reports/f12b2c3f-8b85-48b1-96c9-2f2809cf9aad/ddc5e0806801d01dd967?experience=power-bi
 
+🖼 Dashboard Preview
 
-📊 Dataset Source
 ![Screenshot 2025-07-09 225832](https://github.com/user-attachments/assets/aea32b75-85f5-43ea-a835-86a884b2ea66)
 
 The dataset used for this analysis is the publicly available Titanic dataset on Kaggle.
